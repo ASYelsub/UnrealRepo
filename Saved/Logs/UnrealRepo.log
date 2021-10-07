@@ -7471,3 +7471,79 @@ Script Stack (0 frames):
 [2021.10.07-17.14.14:055][246]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2021.10.07-17.14.14:061][246]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
 [2021.10.07-17.14.14:085][247]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2021.10.07-17.22.49:845][  3]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2021.10.07-17.22.49:849][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NumberCircle" FILE="../../../../../College/PrototypeStudio_Unreal/Saved/Autosaves/Game/Maps/NumberCircle_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.10.07-17.22.50:055][  3]LogSavePackage: Moving '../../../../../College/PrototypeStudio_Unreal/Saved/NumberCircle_Auto284C12D3D489FF75B5D4D53B134C47539.tmp' to '../../../../../College/PrototypeStudio_Unreal/Saved/Autosaves/Game/Maps/NumberCircle_Auto2.umap'
+[2021.10.07-17.22.50:056][  3]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/NumberCircle' took 0.282
+[2021.10.07-17.22.50:056][  3]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.282
+[2021.10.07-17.22.50:056][  3]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Bluerpints/Wheel] ([4] browsable assets)...
+[2021.10.07-17.22.50:095][  3]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Bluerpints/Wheel.Wheel]
+[2021.10.07-17.22.50:126][  3]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Bluerpints/Wheel.Wheel]
+[2021.10.07-17.22.50:126][  3]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bluerpints/Wheel]
+[2021.10.07-17.22.50:126][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bluerpints/Wheel" FILE="../../../../../College/PrototypeStudio_Unreal/Saved/Autosaves/Game/Bluerpints/Wheel_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2021.10.07-17.22.50:161][  3]LogSavePackage: Moving '../../../../../College/PrototypeStudio_Unreal/Saved/Wheel_Auto2636BD8ED421CADEB7ECB5B97897BC77F.tmp' to '../../../../../College/PrototypeStudio_Unreal/Saved/Autosaves/Game/Bluerpints/Wheel_Auto2.uasset'
+[2021.10.07-17.22.50:162][  3]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Bluerpints/Point] ([6] browsable assets)...
+[2021.10.07-17.22.50:162][  3]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bluerpints/Point]
+[2021.10.07-17.22.50:162][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bluerpints/Point" FILE="../../../../../College/PrototypeStudio_Unreal/Saved/Autosaves/Game/Bluerpints/Point_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2021.10.07-17.22.50:162][  3]LogSavePackage: Moving '../../../../../College/PrototypeStudio_Unreal/Saved/Point_Auto2BFEA2EAD422B58774402A7B7D46A36A2.tmp' to '../../../../../College/PrototypeStudio_Unreal/Saved/Autosaves/Game/Bluerpints/Point_Auto2.uasset'
+[2021.10.07-17.22.50:163][  3]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Bluerpints/Riser] ([2] browsable assets)...
+[2021.10.07-17.22.50:187][  3]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Bluerpints/Riser.Riser]
+[2021.10.07-17.22.50:187][  3]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bluerpints/Riser]
+[2021.10.07-17.22.50:187][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bluerpints/Riser" FILE="../../../../../College/PrototypeStudio_Unreal/Saved/Autosaves/Game/Bluerpints/Riser_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2021.10.07-17.22.50:199][  3]LogSavePackage: Moving '../../../../../College/PrototypeStudio_Unreal/Saved/Riser_Auto251053A3846FF9CF50E35B7BC71C4C030.tmp' to '../../../../../College/PrototypeStudio_Unreal/Saved/Autosaves/Game/Bluerpints/Riser_Auto2.uasset'
+[2021.10.07-17.22.50:199][  3]LogFileHelpers: Auto-saving content packages took 0.144
+[2021.10.07-17.25.56:887][559]LogSlate: Window 'Riser' being destroyed
+[2021.10.07-17.25.56:900][559]LogSlate: Window 'Riser' being destroyed
+[2021.10.07-17.25.56:903][559]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.10.07-17.25.56:903][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.07-17.25.57:131][559]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.10.07-17.25.57:131][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.07-17.25.57:192][559]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.10.07-17.25.57:192][559]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.10.07-17.25.57:192][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.07-17.25.59:192][773]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2021.10.07-17.26.00:902][773]LogSlate: Window 'Save Content' being destroyed
+[2021.10.07-17.26.00:940][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NumberCircle" FILE="../../../../../College/PrototypeStudio_Unreal/Content/Maps/NumberCircle.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.07-17.26.01:006][773]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2021.10.07-17.26.01:037][773]LogSavePackage: Moving '../../../../../College/PrototypeStudio_Unreal/Saved/NumberCircleDC38478D47F10FBF3206208FBA247075.tmp' to '../../../../../College/PrototypeStudio_Unreal/Content/Maps/NumberCircle.umap'
+[2021.10.07-17.26.01:044][773]LogFileHelpers: Saving map 'NumberCircle' took 0.104
+[2021.10.07-17.26.01:044][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bluerpints/Riser" FILE="../../../../../College/PrototypeStudio_Unreal/Content/Bluerpints/Riser.uasset" SILENT=true
+[2021.10.07-17.26.01:053][773]LogSavePackage: Moving '../../../../../College/PrototypeStudio_Unreal/Saved/RiserDC9F270C49459EA18705AAB830F816AC.tmp' to '../../../../../College/PrototypeStudio_Unreal/Content/Bluerpints/Riser.uasset'
+[2021.10.07-17.26.01:054][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bluerpints/Wheel" FILE="../../../../../College/PrototypeStudio_Unreal/Content/Bluerpints/Wheel.uasset" SILENT=true
+[2021.10.07-17.26.01:085][773]LogSavePackage: Moving '../../../../../College/PrototypeStudio_Unreal/Saved/Wheel6DECB7EB42089CCD995AB183E429CF34.tmp' to '../../../../../College/PrototypeStudio_Unreal/Content/Bluerpints/Wheel.uasset'
+[2021.10.07-17.26.01:360][773]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2021.10.07-17.26.01:411][773]LogSlate: Window 'UnrealRepo - Unreal Editor' being destroyed
+[2021.10.07-17.26.01:421][773]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.10.07-17.26.01:714][773]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.07-17.26.01:714][773]LogContentValidation: Display: Validating Blueprint /Game/Bluerpints/Wheel.Wheel
+[2021.10.07-17.26.01:714][773]LogContentValidation: Display: Validating World /Game/Maps/NumberCircle.NumberCircle
+[2021.10.07-17.26.01:715][773]LogContentValidation: Display: Validating Blueprint /Game/Bluerpints/Riser.Riser
+[2021.10.07-17.26.01:729][774]Cmd: QUIT_EDITOR
+[2021.10.07-17.26.01:730][774]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.10.07-17.26.01:776][774]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.10.07-17.26.02:828][774]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2021.10.07-17.26.02:828][774]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2021.10.07-17.26.02:828][774]LogAudio: Display: Audio Device unregistered from world 'NumberCircle'.
+[2021.10.07-17.26.02:828][774]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.07-17.26.02:828][774]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.07-17.26.02:843][774]LogAudio: Display: Audio Device Manager Shutdown
+[2021.10.07-17.26.02:854][774]LogExit: Preparing to exit.
+[2021.10.07-17.26.03:338][774]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2021.10.07-17.26.04:172][774]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.10.07-17.26.04:174][774]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.10.07-17.26.04:175][774]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.10.07-17.26.04:175][774]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.10.07-17.26.04:175][774]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.10.07-17.26.04:175][774]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.10.07-17.26.04:176][774]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.10.07-17.26.04:176][774]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.10.07-17.26.04:176][774]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.10.07-17.26.04:176][774]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.10.07-17.26.04:179][774]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.10.07-17.26.04:181][774]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.10.07-17.26.04:183][774]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.10.07-17.26.04:185][774]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.10.07-17.26.04:186][774]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.10.07-17.26.04:187][774]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.10.07-17.26.04:188][774]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.10.07-17.26.04:189][774]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
