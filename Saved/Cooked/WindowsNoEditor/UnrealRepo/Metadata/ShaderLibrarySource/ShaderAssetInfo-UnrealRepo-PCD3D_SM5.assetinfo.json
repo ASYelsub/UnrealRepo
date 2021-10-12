@@ -2,6 +2,88 @@
 	"AssetInfoVersion": 2,
 	"ShaderCodeToAssets": [
 		{
+			"ShaderMapHash": "B47CABED7A4537AAD9D04F5ACC70AD3D4BE7AE99",
+			"Assets": [
+				"/Game/Mannequin/Character/Materials/M_UE4Man_ChestLogo"
+			]
+		},
+		{
+			"ShaderMapHash": "DABF6BF8BB8214AF83DEAF60B6660B90DFCB5CBF",
+			"Assets": [
+				"/Game/Materials/-P_DoorMat",
+				"/Game/Materials/-P_Wall",
+				"/Game/Materials/-P_Ground",
+				"/Game/Materials/-P_Wheel"
+			]
+		},
+		{
+			"ShaderMapHash": "8D5C9971654E22D92212E61C55D92EEA6D6F673A",
+			"Assets": [
+				"/Engine/BasicShapes/BasicShapeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "7B77059808207F1E9A50633FEE88CFD5F758DA9A",
+			"Assets": [
+				"/Engine/EngineMaterials/WorldGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "1DE5B3C3078204FBD8C2559DA141189D5E37777E",
+			"Assets": [
+				"/Game/Materials/-P_WheelPivot",
+				"/Engine/EngineMaterials/RemoveSurfaceMaterial",
+				"/Game/Materials/WheelPivotMat"
+			]
+		},
+		{
+			"ShaderMapHash": "BE009093AFED865BC4E39A6002509DDDDF832735",
+			"Assets": [
+				"/Game/Geometry/Meshes/CubeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "F7E2CCE5A5BA6C7B47D7005BB5056A0C861B27BB",
+			"Assets": [
+				"/Game/Materials/GuardMat"
+			]
+		},
+		{
+			"ShaderMapHash": "5558532C15914C109C847A171119729CEFFCDD07",
+			"Assets": [
+				"/Game/Materials/SobelEdgeShader"
+			]
+		},
+		{
+			"ShaderMapHash": "801695B573595E0ABB3374666E6BFAA38A923B67",
+			"Assets": [
+				"/Game/ThirdPerson/Meshes/RampMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "6CB5CAC2EF8223107EA2B21906291F541215A3CF",
+			"Assets": [
+				"/Game/Materials/-P_Wheel",
+				"/Game/Materials/-P_Ground",
+				"/Game/Materials/-P_Wall",
+				"/Engine/VREditor/TransformGizmo/Xray",
+				"/Game/Materials/RiserMat",
+				"/Game/Materials/WheelBase"
+			]
+		},
+		{
+			"ShaderMapHash": "3DD04685945D349FA20326E69F7F257831F2B483",
+			"Assets": [
+				"/Game/Materials/RiserMat"
+			]
+		},
+		{
+			"ShaderMapHash": "A3BE82CF769F300E004182739D0A10888180D1E1",
+			"Assets": [
+				"/Game/Materials/-P_FloorOrnate"
+			]
+		},
+		{
 			"ShaderMapHash": "3C38407CDC69B96A9C50A4DA3B221DED3C77CB47",
 			"Assets": [
 				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
@@ -29,13 +111,6 @@
 			"ShaderMapHash": "8D7D8117754FBCB3E6EAF4484CB55FBB0B7F49DB",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/DebugMeshMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "1DE5B3C3078204FBD8C2559DA141189D5E37777E",
-			"Assets": [
-				"/Engine/EngineMaterials/RemoveSurfaceMaterial",
-				"/Game/Materials/WheelPivotMat"
 			]
 		},
 		{
@@ -197,14 +272,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "6CB5CAC2EF8223107EA2B21906291F541215A3CF",
-			"Assets": [
-				"/Engine/VREditor/TransformGizmo/Xray",
-				"/Game/Materials/RiserMat",
-				"/Game/Materials/WheelBase"
-			]
-		},
-		{
 			"ShaderMapHash": "7AC6A1390AF3DBB7E84E8B4A480B7C7EA824BE87",
 			"Assets": [
 				"/Engine/VREditor/TransformGizmo/Main"
@@ -238,12 +305,6 @@
 			"ShaderMapHash": "12C1F1A235C8BA81EC4F2D0CFB449FF28BCCEE3F",
 			"Assets": [
 				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "7B77059808207F1E9A50633FEE88CFD5F758DA9A",
-			"Assets": [
-				"/Engine/EngineMaterials/WorldGridMaterial"
 			]
 		},
 		{
@@ -292,12 +353,6 @@
 			"ShaderMapHash": "719AB780A1912A1C4C1A7B1D5A158485B14842EC",
 			"Assets": [
 				"/Game/Mannequin/Character/Materials/M_Male_Body"
-			]
-		},
-		{
-			"ShaderMapHash": "B47CABED7A4537AAD9D04F5ACC70AD3D4BE7AE99",
-			"Assets": [
-				"/Game/Mannequin/Character/Materials/M_UE4Man_ChestLogo"
 			]
 		}
 	]
